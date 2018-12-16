@@ -1,0 +1,10 @@
+name: RenderCache
+type: module
+description: 'Override Render Cache'
+# package: 
+dependencies: 
+  - render_cache
+configure: test.admin_settings
+
+version: '8.2.6'
+core: '8.x'
